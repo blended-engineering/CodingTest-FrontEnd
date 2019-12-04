@@ -1,5 +1,11 @@
 ## 과제
 
+# Requirement
+- JS, TS언어로 작성합니다.
+- 아래 항목을 만족합니다.
+   - User Stories
+   - Bonus features (optional)
+
 # Movie Database App
 
 Find your next movie or create your watchlist with this App. It include reviews, rating, actors and anything you need to know about the movie.
