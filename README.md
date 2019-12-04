@@ -7,7 +7,7 @@ Find your next movie or create your watchlist with this App. It include reviews,
 - Resource needed for the project is movie api, examples include Imdb, MovieDB etc.
 
 ## Requirement
-- JS, TS언어로 작성합니다.
+- React기반으로 작성합니다.
 - 아래 항목을 만족합니다.
    - User Stories
    - Bonus features (optional)
