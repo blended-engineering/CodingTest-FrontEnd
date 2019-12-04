@@ -1,10 +1,3 @@
-## 과제
-
-# Requirement
-- JS, TS언어로 작성합니다.
-- 아래 항목을 만족합니다.
-   - User Stories
-   - Bonus features (optional)
 
 # Movie Database App
 
@@ -12,6 +5,12 @@ Find your next movie or create your watchlist with this App. It include reviews,
 
 - This application will help users find their next movie to watch by showing helpful stats
 - Resource needed for the project is movie api, examples include Imdb, MovieDB etc.
+
+## Requirement
+- JS, TS언어로 작성합니다.
+- 아래 항목을 만족합니다.
+   - User Stories
+   - Bonus features (optional)
 
 ## User Stories
 
