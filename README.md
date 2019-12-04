@@ -28,3 +28,5 @@ Find your next movie or create your watchlist with this App. It include reviews,
 ## Useful links and resources
 
 - [MovieDB Api](https://developers.themoviedb.org/3)
+   - apiKey : 844dba0bfd8f3a4f3799f6130ef9e335
+   ex) https://api.themoviedb.org/3/movie/popular?api_key=844dba0bfd8f3a4f3799f6130ef9e335&language=en-US&page=1
