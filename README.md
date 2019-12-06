@@ -12,6 +12,7 @@ Find your next movie or create your watchlist with this App. It include reviews,
 - 아래 항목을 만족합니다.
    - User Stories
    - Bonus features (optional)
+   - Storybook 이용하여 Component기반 화면 구성 (optional)
 
 ## User Stories
 
