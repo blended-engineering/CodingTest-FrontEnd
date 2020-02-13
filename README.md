@@ -8,11 +8,13 @@ Find your next movie or create your watchlist with this App. It include reviews,
 - Resource needed for the project is movie api, examples include Imdb, MovieDB etc.
 
 ## Requirement
-- React기반으로 작성합니다.
+- React, [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)기반으로 작성합니다.
+- 스타일 정의는 [styled-components](https://styled-components.com/)를 적용합니다.
 - 아래 항목을 만족합니다.
    - User Stories
    - Bonus features (optional)
-   - Storybook 이용하여 Component기반 화면 구성 (optional)
+   - Storybook 이용하여 Component기반 화면을 구성합니다. (optional)
+   - typescript 기반으로 개발을 진행합니다. (optional)
 
 ## User Stories
 
