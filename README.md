@@ -86,6 +86,7 @@
 ### Mockup
 
 - [Movies & Series mock up](https://www.figma.com/file/7Tr5BCjrIvIsBxxCFJjdDj/movies-app-davor-naumoski?node-id=0%3A583)
+- Figma 서비스에 가입 후 로그인 하시면 각 요소에 대한 inspection을 할 수 있습니다.
 
 ### API
 
